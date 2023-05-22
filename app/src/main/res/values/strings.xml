@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tv Shows</string>
+    <string name="list_loading">Loading…</string>
+    <string name="retry">Retry</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="show_list_grid_tag">show_list_grid</string>
+    <string name="show_image_cd">show_image</string>
+</resources>
